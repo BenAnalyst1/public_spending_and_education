@@ -1,2 +1,2 @@
 # public_spending_and_education
-This is an analysis of the effect of public spending, measured by expenditure per pupil, on pupil's educational outcomes, measured by average test scores. I used Stata to apply the Ordinary Least Squared (OLS) to estimate the effect.
+This is an analysis of the effect of public spending, measured by expenditure per pupil, on pupil's educational outcomes, measured by average test scores. The key question pursued is whether or not expenditure per pupil improves pupil's average test scores. I applied Ordinary Least Squares (OLS) estimation to answer this question. The analysis was done using Stata 18.5. I have uploaded a dofile and logfile of the analysis.
