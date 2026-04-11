@@ -1,2 +1,20 @@
-# public_spending_and_education
-This project involves an analysis of the effect of public spending, measured by expenditure per pupil, on pupil's educational outcomes, measured by average test scores. The key question pursued here is whether or not expenditure per pupil improves pupil's average test scores. I applied Ordinary Least Squares (OLS) estimation to answer this question. The analysis was done using Stata 18.5. I have uploaded the dofile, logfile, and a report explaining the results.
+Is public expenditure on education an economic priority? This analysis examines the effect of public spending on educational outcomes
+
+## Objective
+To determne whether expenditure per pupil improves pupil's average tests scores.
+
+## Dependent variable:
+ - Average pupil's test score (educational outcomes)
+## Independent variable:
+ - Expenditure per pupil (public spending)
+
+## Method:
+- OLS Estimation, conducted in Stata 18.5
+
+## Key Finding
+- A one percent increase in expenditure per pupil increases pupil's average test scores by 0.089 points, keeping other factors constant. This is significant at the 5% level. See the report for full results and interpretation of the OLS estimates.
+
+## Repository contents:
+- dofile (educAnalysis_dofile.do) - Stata analysis script
+- logfile (educ_finance.log) - Output log from the analysis
+- report (updated_report) - results and interpretation
