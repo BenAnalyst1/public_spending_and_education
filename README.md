@@ -1,4 +1,4 @@
-# Project
+# Project title
 - Effect of public education spending on pupil educational outcomes.
 
 In this project, I examine the relationship between public education expenditure and pupil educational outcomes. The analysis explores whether increased expenditure per pupil is associated with improvements in pupil's average mathematics and English test scores.
